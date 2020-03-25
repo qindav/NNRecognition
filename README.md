@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=R21wUQgNLwA
 https://www.youtube.com/watch?v=bIZ0xbgEGjg
 
 https://www.youtube.com/watch?v=tasSNjMoETs
+
+MyModel.ipynb is used to process the videos and train the NN
+process.ipynb is for the user to upload their own videos
