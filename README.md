@@ -1,6 +1,8 @@
 # NNRecognition
 CSCE636 Gesture recognition for finger drumming, hands in pockets, and erratic arm movements
 
+Current top accuracy is 93%!
+
 This project was done on google colab while using the local file system located on google drive. Unfortunatley setup will not be easy cause of that. I will have to share my folders that contain my videos and other files.
 
 Some youtube demos can be viewed here:
