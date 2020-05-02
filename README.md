@@ -12,4 +12,4 @@ Youtube demo can be viewed here, features 5 sample runs:
 
 https://www.youtube.com/watch?v=5xWhPm3LHMI
 
-MyModel.ipynb is used to process the videos and train the NN. process.py contains the model that you can test videos on and output jsons/graphs
+MyModel.ipynb is used to process the videos and train the NN. process.py contains the model that you can test videos on and output jsons/graphs. To run it, type: python process.py VIDEO_FILE.MP4
