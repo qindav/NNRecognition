@@ -1,7 +1,9 @@
 # NNRecognition
 CSCE636 Gesture recognition for finger drumming, hands in pockets, and erratic arm movements
 
-NOTE: The weights.hdf5 file is too large for github to upload, you'll have to download the weights here:
+NOTE: The weights.hdf5 file is too large for github to upload, you'll have to download the weights here. The first is my updated model post the final submission, the second holds the model used for the final submission:
+https://drive.google.com/open?id=1VpqI7sVG3fdje7Yq83PSzj_FwWgTUIoJ
+
 https://drive.google.com/file/d/15i8PzcGkY9xw75VunuZ_g_xxTfKnnQE9/view?usp=sharing
 
 You can view the videos here:
